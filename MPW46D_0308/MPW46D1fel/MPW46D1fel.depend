@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647196945 source:/home/mint/Documents/MPW46D_0308/MPW46D1fel/main.c
+	<stdio.h>
+	<stdlib.h>
+

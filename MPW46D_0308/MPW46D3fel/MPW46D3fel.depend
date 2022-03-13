@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1647198635 source:/home/mint/Documents/MPW46D_0308/MPW46D3fel/parent.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
+1647198635 source:/home/mint/Documents/MPW46D_0308/MPW46D3fel/child.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
