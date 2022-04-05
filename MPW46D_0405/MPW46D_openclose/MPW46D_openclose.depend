@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649164632 source:/home/stud2021/gorog1/Desktop/MPW46OsGyak/MPW46D_0405/MPW46D_openclose/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+

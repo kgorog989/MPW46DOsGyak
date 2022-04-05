@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649168294 source:/home/stud2021/gorog1/Desktop/MPW46OsGyak/MPW46D_0405/MPW46D_tobbszignal/main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<sys/types.h>
+
