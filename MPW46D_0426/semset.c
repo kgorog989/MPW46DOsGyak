@@ -16,8 +16,8 @@ int main( ) {
 	printf("Adja meg a szemaforok szamat!\n");
 	scanf("%d", &n);
 
-	if ((id = semget(KEY, 5, 0)) < 0) {
-		if ((id = semget(KEY, 5, PERM | IPC_CREAT)) < 0) {
+	if ((id = semget(KEY, n, 0)) < 0) {
+		if ((id = semget(KEY, n, PERM | IPC_CREAT)) < 0) {
 		 	perror(" A szemafor nem nyitható meg. ");
 			exit(-1);
 		}
